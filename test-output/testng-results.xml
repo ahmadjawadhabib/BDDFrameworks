@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-02T17:42:56 EST" name="Default suite" finished-at="2020-01-02T17:43:36 EST" duration-ms="40582">
+    <groups>
+    </groups>
+    <test started-at="2020-01-02T17:42:56 EST" name="Default test" finished-at="2020-01-02T17:43:36 EST" duration-ms="40582">
+      <class name="com.noorteck.qa.tests.CampaingsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:42:56 EST" name="setUp" finished-at="2020-01-02T17:42:59 EST" duration-ms="3376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="campaingsPageCreateEmailMessage()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:42:59 EST" name="campaingsPageCreateEmailMessage" finished-at="2020-01-02T17:43:01 EST" duration-ms="2083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaingsPageCreateEmailMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:01 EST" name="tearDown" finished-at="2020-01-02T17:43:04 EST" duration-ms="3089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:04 EST" name="setUp" finished-at="2020-01-02T17:43:07 EST" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="campaingsPageCreateSmSMessage()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:07 EST" name="campaingsPageCreateSmSMessage" finished-at="2020-01-02T17:43:09 EST" duration-ms="1901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaingsPageCreateSmSMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:09 EST" name="tearDown" finished-at="2020-01-02T17:43:12 EST" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:12 EST" name="setUp" finished-at="2020-01-02T17:43:15 EST" duration-ms="2823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="campaingsPageRemoveSmSMessage()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:15 EST" name="campaingsPageRemoveSmSMessage" finished-at="2020-01-02T17:43:18 EST" duration-ms="2831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaingsPageRemoveSmSMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:18 EST" name="tearDown" finished-at="2020-01-02T17:43:21 EST" duration-ms="3085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:21 EST" name="setUp" finished-at="2020-01-02T17:43:24 EST" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="campainsPageHeaderTest()[pri:1, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:24 EST" name="campainsPageHeaderTest" finished-at="2020-01-02T17:43:25 EST" duration-ms="1178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campainsPageHeaderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:25 EST" name="tearDown" finished-at="2020-01-02T17:43:28 EST" duration-ms="3086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:28 EST" name="setUp" finished-at="2020-01-02T17:43:31 EST" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="campaingsPageRemoveEmailMessage()[pri:2, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:31 EST" name="campaingsPageRemoveEmailMessage" finished-at="2020-01-02T17:43:33 EST" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- campaingsPageRemoveEmailMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.noorteck.qa.tests.CampaingsPageTest@11dc3715]" started-at="2020-01-02T17:43:33 EST" name="tearDown" finished-at="2020-01-02T17:43:36 EST" duration-ms="3090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.noorteck.qa.tests.CampaingsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
